@@ -1,0 +1,40 @@
+body {
+  font-family: system-ui, sans-serif;
+  background: #f9f9f9;
+  color: #333;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+header {
+  background: #f38020;
+  color: white;
+  padding: 2rem 0;
+  border-bottom: 4px solid #e06c00;
+}
+
+main {
+  padding: 2rem;
+}
+
+button {
+  background: #f38020;
+  color: white;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #e06c00;
+}
+
+footer {
+  background: #eee;
+  padding: 1rem;
+  font-size: 0.9rem;
+  color: #555;
+}
